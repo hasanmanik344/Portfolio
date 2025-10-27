@@ -27,7 +27,6 @@ Mechanical Engineer experienced in quality management, lab operations, and gauge
     <p>© 2025 Hasan Manik | <a href="mailto:your@email.com">Contact Me</a></p>
   </footer>
 </body>
-</html>
 body {
   font-family: Arial, sans-serif;
   background: #f7f9fc;
@@ -68,3 +67,5 @@ footer {
   background: #eee;
   border-top: 1px solid #ccc;
 }
+
+</html>
