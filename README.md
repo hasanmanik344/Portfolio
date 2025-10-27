@@ -1,6 +1,5 @@
 
-# hasanmanik.github.io
-Mechanical Engineer experienced in quality management, lab operations, and gauge design. Skilled in GD&amp;T, MSA, GR&amp;R, RCA, CAPA/8D, 5S, SOPs, and Kaizen. Involved in compressor manufacturing, supplier coordination, and continuous improvement.
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -9,6 +8,7 @@ Mechanical Engineer experienced in quality management, lab operations, and gauge
   <title>Hasan Manik | Portfolio</title>
   <link rel="stylesheet" href="style.css" />
 </head>
+  <h1>Hi, I'm Josh! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 <body>
   <header>
     <h1>Hi, I'm Hasan Manik 👋</h1>
