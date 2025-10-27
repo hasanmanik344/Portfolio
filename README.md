@@ -27,6 +27,7 @@ Mechanical Engineer experienced in quality management, lab operations, and gauge
     <p>© 2025 Hasan Manik | <a href="mailto:your@email.com">Contact Me</a></p>
   </footer>
 </body>
+<h1>Hi, I'm Josh! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 </html>
 
 
