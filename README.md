@@ -1,5 +1,3 @@
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -8,7 +6,8 @@
   <title>Md. Hasan Manik Reza | Portfolio</title>
   <link rel="stylesheet" href="style.css" />
 </head>
-  <h1>Hi, I'm Josh! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+
+  
 <body>
   <header>
     <h1>Hi, I'm Md. Hasan Manik Reza 👋</h1>
