@@ -3,29 +3,30 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Md. Hasan Manik Reza | Portfolio</title>
+  <title> Md. Hasan Manik Reza | Portfolio </title>
   <link rel="stylesheet" href="style.css" />
 </head>
 
-  
 <body>
   <header>
     <h1>Hi, I'm Md. Hasan Manik Reza 👋</h1>
-    <p>Mechanical Engineer,RUET | Quality Engineer, WALTON | Metrology Specialist</p>
+    <p>Mechanical Engineer,RUET | Quality Engineer,WALTON | Metrology Specialist</p>
   </header>
 
   <section id="PROFESSIONAL SUMMARY">
-    <h2>Projects</h2>
+    <h2>PROFESSIONAL SUMMARY</h2>
     <ul>
       <li><a href="#">Mechanical Engineer with experience in quality management, laboratory operations, and gauge design & development. Skilled in GD&T, MSA, GR&R, RCA, and CAPA/8D, with strong knowledge of 5S, SOPs, and Kaizen. Experienced in compressor manufacturing and working with foreign suppliers for calibration, validation, and machine procurement to support organizational growth and continuous improvement.</a></li>
-  
-    </ul>
+   </ul>
   </section>
   
 
   <footer>
     <p>© 2025 Hasan Manik | <a href="mailto:your@email.com">Contact Me</a></p>
   </footer>
+
+
+  
 </body>
 <h1>Hi, I'm Josh! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 </html>
